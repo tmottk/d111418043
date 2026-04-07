@@ -1,1 +1,1 @@
-Initialization: $\hat{\mathbf{h}}(0) = \text{zeros}(p)$Computation: For $n = 0, 1, 2, \dots$$$\mathbf{x}(n) = [x(n), x(n-1), \dots, x(n-p+1)]^T$$$$e(n) = d(n) - \hat{\mathbf{h}}^H(n)\mathbf{x}(n)$$$$\hat{\mathbf{h}}(n+1) = \hat{\mathbf{h}}(n) + \frac{\mu e^*(n)\mathbf{x}(n)}{\mathbf{x}^H(n)\mathbf{x}(n)}$$
+initialzation
