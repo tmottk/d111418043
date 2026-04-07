@@ -15,3 +15,13 @@ $$
 $$
 
 <[網址或mail](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs)>
+
+1.
+空行
+---
+2.
+***
+
+| 欄位1 | 欄位2 | 欄位3 |
+| :-- | --: |:--:|
+| 置左  | 置右 | 置中 |
